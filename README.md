@@ -4,6 +4,8 @@ Digital Literacy Portfolio – Student Digital Ambassador
 
 Name: Divyanshi Upadhyay
 
+Registration number - 25BAI10585
+
 Program: B.Tech CSE (AI & ML)
 
 Role: Student Digital Ambassador
@@ -43,6 +45,8 @@ Kaggle – for data science practice
 
 ResearchGate – for academic research
 
+LinkedIn - for professional networking and career opportunities
+
 Task 3 – Coding & Collaboration Platforms
 
 Solved “Solve Me First” on HackerRank
@@ -74,3 +78,24 @@ Learned to use important digital tools effectively
 📌 Conclusion
 
 This project helped me understand the importance of digital literacy in modern education and careers. It enhanced my practical skills and made me more confident in using digital platforms responsibly.
+
+
+🔗Tools & Platforms Used in Digital Literacy Project :
+
+
+•	Prezi – (https://www.prezi.com) (for presentation creation) 
+
+•	GitHub – (https://github.com) (for portfolio and project hosting) 
+
+•	Kaggle – (https://www.kaggle.com) (for data science practice) 
+
+• LinkedIn -  (https://www.linkedin.com) for professional networking and career opportunities
+
+•	ResearchGate – (https://www.researchgate.net) (for academic research) 
+
+•	HackerRank – (https://www.hackerrank.com) (for coding practice) 
+
+•	Google Forms & Google Sheets – (https://forms.google.com) (for quiz creation and data collection) 
+
+•	National Cyber Crime Portal – (https://cybercrime.gov.in) (for reporting cybercrime in India) 
+
